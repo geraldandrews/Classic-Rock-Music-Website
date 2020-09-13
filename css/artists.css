@@ -1,0 +1,248 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: #000;
+   background-blend-mode: overlay;
+}
+
+.main-header {
+   background: url('../img/classic rock logo.jpg') no-repeat center center/cover;
+   height: 60vh;
+   margin: auto;
+}
+
+
+/* navbar */
+.navbar {
+   background: #061015;
+}
+
+.navbar-icon {
+   font-size: 2rem;
+   color: #fff;
+}
+
+.navbar-toggler {
+   outline-color: #fff;
+}
+
+.nav-link {
+   color: #fff;
+   text-transform: capitalize;
+   font-size: 1rem;
+}
+
+.nav-link:hover {
+   color: #40ACF1;
+}
+
+.nav-icon {
+   font-size: 1.5rem;
+   color: #fff;
+   text-decoration: none!important;
+   transition-property: color;
+   transition-duration: 2s;
+   transition-timing-function: linear;
+}
+
+.nav-icon:hover {
+   color: #40ACF1;
+}
+
+/* header */
+.header {
+   color: #fff;
+}
+
+.height-max {
+   min-height: calc(100vh - 76px);
+   background: url('../img/bg-image.jpg');
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   opacity: 0.2;
+}
+
+.container-fluid {
+   width: 100%;
+}
+
+/* skills */
+.skills {
+   background: #000;
+}
+
+.section-title--special {
+   color: #fff;
+   background: grey;
+   padding: 0.5rem;
+   border-radius: 10px;
+}
+
+.font-weight-bold {
+   color: #fff;
+}
+
+.paragraph {
+   color: #fff;
+}
+
+.skills-icon {
+   color: #fff;
+   background: grey;
+   font-size: 2rem;
+}
+
+.skills-icon:hover {
+   color: #ffa500;
+}
+
+.skills-underline {
+   width: 4rem;
+   height: 0.3rem;
+   background: #fff;
+   margin: 1rem auto;
+}
+
+.btn {
+   background: transparent;
+   border: none;
+   color: white;
+   padding: 10px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+   border: 1px solid #fff;
+   margin: 15px;
+   outline: none;
+}
+
+.btn:hover {
+   background-color: #fff;
+   color: #000;
+}
+
+input {
+   height: 44px;
+   border-radius: 5px;
+   outline: none;
+}
+
+h2,h3 {
+   color: #fff;
+   margin-top: 0px;
+   text-align: center;
+}
+
+h4 {
+   text-align: center;
+}
+
+img {
+   width: 100%;
+}
+
+.img2 {
+   width: 100%;
+   border-radius: 5px;
+   border: 2px solid #fff;
+}
+
+.img3 {
+   border-radius: 5px;
+}
+
+.img-container:hover {
+   box-shadow: 0 10px 15px rgb(0, 0, 0);
+   border-radius: 5px;
+}
+
+/* News Section */
+.news {
+   background: #fff;
+}
+
+.section-title--special2 {
+   color: #fff;
+   background: grey;
+   padding: 0.5rem;
+   border-radius: 10px;
+}
+
+.font-weight-bold2 {
+   color: #000;
+}
+
+/* History Page */
+.heading3 {
+   color: #000;
+}
+
+single-item:hover {
+   box-shadow: 0 10px 15px rgb(0, 0, 0);
+   border-radius: 5px;
+}
+
+.img-container {
+   position: relative;
+   overflow: hidden;
+   cursor: pointer;
+}
+
+.logo-img-container {
+   transition: all 1s ease-in-out;
+}
+
+.img-container:hover .logo {
+   transform: scale(1.2);
+}
+
+.logo {
+   width: 50%;
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   padding: 1rem;
+   background: #fff;
+   border-top-left-radius: 1rem;
+   transition: all 1s ease-in-out;
+   transform: translate(100%, 100%);
+}
+
+img-container:hover .logo {
+   transform: translate(0, 0);
+}
+
+.logo:hover {
+   color: #ffff00;
+}
+
+.footer {
+   background: #061015;
+}
+
+.footer-icon {
+   font-size: 1.5rem;
+   text-decoration: none;
+   color: #fff;
+   transition: all 1s ease-in-out;
+}
+
+.footer-icon:hover {
+   color: grey;
+}
+
+@media (max-width: 1100px) {
+   .main-header {
+      height: 25vh;
+   }
+}
+
