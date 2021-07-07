@@ -1,1 +1,6 @@
-Small Classic Rock and Roll Music Website with bootstrap, html, and css.
+# Classic Rock Music Website
+### Live Site: https://gerald2399.github.io/Classic-Rock-Music-Website/
+
+## Description 
+This is a front-end website project I created about classic rock music which includes news and history about the music and artists using HTML, CSS, Javascript, and the CSS 
+framework Bootstrap.
