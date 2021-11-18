@@ -3,7 +3,7 @@ const matchList = document.getElementById('match-list');
 
 // Search shows.json and filter it
 const searchBands = async searchText => {
-    const res = await fetch('../data/bands.json');
+    const res = await fetch('bands.json');
     const bands = await res.json();
 
     // Get matches to current text input
