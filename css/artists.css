@@ -53,25 +53,6 @@ body {
    color: #40ACF1;
 }
 
-/* header */
-.header {
-   color: #fff;
-}
-
-.height-max {
-   min-height: calc(100vh - 76px);
-   background: url('../img/bg-image.jpg');
-   background-position: center;
-   background-size: cover;
-   background-attachment: fixed;
-   background-repeat: no-repeat;
-   opacity: 0.2;
-}
-
-.container-fluid {
-   width: 100%;
-}
-
 /* skills */
 .skills {
    background: #000;
