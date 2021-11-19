@@ -14,11 +14,25 @@
 		"link": "https://www.aerosmith.com/"
 	},
 	{
+		"years": "1964 - Present",
+		"name": "Alice Cooper ",
+		"members": "Alice Cooper",
+		"img": "bands/alice cooper.jpg",
+		"link": "https://alicecooper.com/"
+	},
+	{
 		"years": "1954 - 2018",
 		"name": "Aretha Franklin",
 		"members": "Aretha Franklin",
 		"img": "bands/aretha franklin.jpg",
 		"link": "https://www.arethafranklin.net/"
+	},
+	{
+		"years": "1973 - 1982, 1986 - 1999, 2001 - 2002, 2008 - Present",
+		"name": "Bad Company",
+		"members": "Simon Kirke, Paul Rodgers, Howard Leese, Todd Ronning<br><br>Past Members: Mick Ralphs, Raymond 'Boz' Burrell, Brian Howe, Steve Price, Dave 'Bucket' Colwell, Rick Wills, Robert Hart, Jaz Lochrie",
+		"img": "bands/bad company.jpg",
+		"link": "https://www.badcompany.com/"
 	},
 	{
 		"years": "1964 - Present",
@@ -33,6 +47,20 @@
 		"members": "Geezer Butler, Tony Lommi, Bill Ward, Ozzy Osbourne",
 		"img": "bands/black sabbath.jpg",
 		"link": "https://www.blacksabbath.com/"
+	},
+	{
+		"years": "1967 - 1981, 1984 - Present",
+		"name": "Blood Sweat & Tears",
+		"members": "Brad Mason, Jonathan Powell, Keith Paluso, Glenn McClelland, Dylan Elise, Ken Gioffre, Ric Fierabracci, Julian Coryell, Michael Boscarino",
+		"img": "bands/blood sweat and tears.jpg",
+		"link": "https://bloodsweatandtears.com/"
+	},
+	{
+		"years": "1967 - Present",
+		"name": "Blue Oyster Cult",
+		"members": "Buck Dharma, Eric Bloom, Danny Miranda, Richie Castellano, Jules Radino",
+		"img": "bands/blue oyster cult.jpg",
+		"link": "http://blueoystercult.com/"
 	},
 	{
 		"years": "1961 - Present",
@@ -56,6 +84,13 @@
 		"link": "https://brucespringsteen.net/"
 	},
 	{
+		"years": "1958 - Present",
+		"name": "Carole King ",
+		"members": "Carole King",
+		"img": "bands/carole king.jpg",
+		"link": "https://caroleking.com/"
+	},
+	{
 		"years": "1967 - Present",
 		"name": "Chicago",
 		"members": "Robert Lamm, Lee Loughnane, James Pankow, Walter Parazaider, Keith Howland, Lou Pardini, Walfredo Reyes Jr., Ray Herrmann, Neil Donell, Brett Simons, Ramon Yslas<br><br>Past Members: Terry Kath, Danny Seraphine, Peter Cetera, Laudir de Oliveira, Donnie Dacus, Chris Pinnick, Bill Champlin, Jason Scheff, Dawayne Baily, Tris Imboden, Bruce Gaitsch, Drew Hester, Daniel de los Reyes, Jeff Coffey",
@@ -70,11 +105,25 @@
 		"link": "http://www.chuckberry.com/"
 	},
 	{
+		"years": "1966 - 1968, 1993, 2005",
+		"name": "Cream",
+		"members": "Jack Bruce, Eric Clapton, Ginger Baker",
+		"img": "bands/cream.jpg",
+		"link": "https://www.musicofcream.com/"
+	},
+	{
 		"years": "1959 - 1972",
 		"name": "Creedence Clearwater Revival",
 		"members": "John Fogerty, Tom Fogerty, Stu Cook, Doug Clifford",
 		"img": "bands/creedence.jpg",
 		"link": "https://creedence-revisited.com/"
+	},
+	{
+		"years": "1968 - 1970, 1973 - 1974, 1976 - 2015",
+		"name": "Crosby, Stills, Nash & Young",
+		"members": "David Crosby, Stephen Stills, Graham Nash, Neil Young",
+		"img": "bands/crosby.jpg",
+		"link": "https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_%26_Young"
 	},
 	{
 		"years": "1962 - 2016",
@@ -84,11 +133,32 @@
 		"link": "https://www.davidbowie.com/home"
 	},
 	{
+		"years": "1968 - 1976, 1984 - Present",
+		"name": "Deep Purple",
+		"members": "Ian Paice, Roger Glover, Ian Gillan, Steve Morse, Don Airey<br><br>Past Members: Jon Lord, Ritchie Blackmore, Nick Simper, Rod Evans, Glenn Hughes, David Coverdale, Tommy Bolin, Joe Lynn Turner",
+		"img": "bands/deep purple.jpg",
+		"link": "https://deep-purple.com/"
+	},
+	{
+		"years": "1977 - Present",
+		"name": "Def Leppard",
+		"members": "Joe Elliot, Rick Savage, Rick Allen, Phil Collin, Vivian Campbell<br><br>Past Members: Tony Kenning, Pete Willis, Steve Clark",
+		"img": "bands/def leppard.jpg",
+		"link": "https://www.defleppard.com/"
+	},
+	{
 		"years": "1961 - Present",
 		"name": "Elton John",
 		"members": "Elton John",
 		"img": "bands/elton john.jpg",
 		"link": "https://www.eltonjohn.com/"
+	},
+	{
+		"years": "1970 - Present",
+		"name": "Elvis Costello",
+		"members": "Elvis Costello",
+		"img": "bands/elvis costello.jpg",
+		"link": "https://www.elviscostello.com/#!/"
 	},
 	{
 		"years": "1946 - 1977",
@@ -112,6 +182,27 @@
 		"link": "https://www.ericclapton.com/"
 	},
 	{
+		"years": "1967 - 1995, 1997 - Present",
+		"name": "Fleetwood Mac",
+		"members": "Mick Fleetwood, John McVie, Christine McVie, Stevie Nicks, Mike Campbell, Neil Finn<br><br>Past Members: Peter Green, Jeremy Spencer, Bob Brunning, Danny Kirwan, Bob Welch, Bob Weston, Dave Walker, Lindsey Buckingham, Billy Burnette, Rick Vito, Bekka Bramlett, Dave Mason",
+		"img": "bands/fleetwood mac.jpg",
+		"link": "https://fleetwoodmac.com/"
+	},
+	{
+		"years": "1971 - 1984, 1993 - Present",
+		"name": "Foghat",
+		"members": "Roger Earl, Bryan Bassett, Charlie Huhn, Rodney O'Quinn<br><br>Past Members: Dave Peverett, Rod Price, Tony Stevens, Nick Jameson, Craig MacGregor, Erik Cartwright, Kenny Aaronson",
+		"img": "bands/foghat.jpg",
+		"link": "https://foghat.com/"
+	},
+	{
+		"years": "1976 - Present",
+		"name": "Foreigner",
+		"members": "Mick Jones, Jeff Pilson, Kelly Hansen, Michael Bluestein, Chris Frazier, Bruce Watson, Luis Maldonado<br><br>Past Members: Thom Gimbel, Lou Gramm, Al Greenwood, Ian McDonald, Dennis Elliott, Ed Gagliardi, Rick Wills, Johnny Edwards, Bruce Turgon, Jason Bonham",
+		"img": "bands/foreigner.jpg",
+		"link": "https://www.foreigneronline.com/"
+	},
+	{
 		"years": "1955 - 1993",
 		"name": "Frank Zappa",
 		"members": "Frank Zappa",
@@ -133,11 +224,32 @@
 		"link": "https://www.dead.net/"
 	},
 	{
+		"years": "1985 - Present",
+		"name": "Guns N' Roses",
+		"members": "Axl Rose, Duff McKagan, Slash, Dizzy Reed, Richard Fortus, Frank Ferrer, Melissa Reese<br><br>Past Members: Izzy Stradlin, Rob Gardner, Tracii Guns, Ole Beich, Steven Adler, Matt Sorum, Gilby Clarke, Paul 'Huge' Tobias, Robin Finck, Josh Freese, Tommy Stinson, Chris Pitman, 'Buckethead' Brian Carroll, 'Brain' Bryan Mantia, Ron 'Bumblefoot' Blumenthal, Daren Ashba",
+		"img": "bands/guns n roses.jpg",
+		"link": "https://www.gunsnroses.com/"
+	},
+	{
+		"years": "1967 - 1998, 2002 - 2016, 2019 - Present",
+		"name": "Heart",
+		"members": "Ann Wilson, Nancy Wilson, Denny Fongheiser, Craig Bartock, Ryan Waters, Dan Walker, Andy Stoller<br><br>Past Members: Steve Fossen, Roger Fisher, Gary Ziegelman, James Cirrello, Ron Rudge, Ken Hansen, David Belzer, Jeff Johnson, Gary Humphries, Don Wilhelm, Chris Blane, Brian Johnstone, John Hannah, Howard Leese, Michael Derosier, Denny Carmassi, Mark Andes, Fernando Saunders, Frank Cox, Scott Olson, Ben Smith, Jon Bayless, Mike Inez, Tom Kellock, Darian Sahanaja, Gilby Clarke, Debbie Shair, Ric Markmann, Kristen Attard, Dan Rothchild, Chris Joyner",
+		"img": "bands/heart.jpg",
+		"link": "https://www.heart-music.com/"
+	},
+	{
 		"years": "1953 - 2006",
 		"name": "James Brown",
 		"members": "James Brown",
 		"img": "bands/james brown.jpg",
 		"link": "http://www.jamesbrown.com/"
+	},
+	{
+		"years": "1965 - 1973, 1989, 1986",
+		"name": "Jefferson Airplane",
+		"members": "Signe Toly Anderson, Marty Balin, Bob Harvey, Paul Kantner, Jorma Kaukonen, Jerry Peloquin, Skip Spence, Jack Casady, Spencer Dryden, Grace Slick, Joey Covington, Papa John Creach, John Barbata, David Freilberg",
+		"img": "bands/jefferson airplane.jpg",
+		"link": "https://jeffersonairplane.com/"
 	},
 	{
 		"years": "1967 - 2012, 2017 - Present",
@@ -154,6 +266,13 @@
 		"link": "https://www.jimihendrix.com/"
 	},
 	{
+		"years": "1964 - 2002, 2006 - 2007, 2013",
+		"name": "Joni Mitchell",
+		"members": "Joni Mitchell",
+		"img": "bands/joni mitchell.jpg",
+		"link": "https://jonimitchell.com/"
+	},
+	{
 		"years": "1968 - 1974, 1981 - 1984, 1994 - 2003, 2008 - 2009, 2013 - Present",
 		"name": "King Crimson",
 		"members": "Robert Fripp, Mel Collins, Tony Levin, Pat Mastelotto, Gavin Harrison, Jakko Jakszyk, Jeremy Stacey<br><br>Past Members: Peter Sinfield, Greg Lake, Michael Giles, Ian McDonald, Gordon Haskell, Andy McCulloch, Ian Wallace, Boz Burrell, Bill Bruford, John Wetton, David Cross, Jamie Muir, Adrian Belew, Trey Gunn, Bill Rieflin",
@@ -161,11 +280,25 @@
 		"link": "https://www.dgmlive.com/"
 	},
 	{
+		"years": "1973 - Present",
+		"name": "Kiss",
+		"members": "Paul Stanley, Gene Simmons, Eric Singer, Tommy Thayer<br><br>Past Members: Ace Frehley, Peter Criss, Eric Carr, Vinnie Vincent, Mark St. John, Bruce Kulick",
+		"img": "bands/kiss.jpg",
+		"link": "https://www.kissonline.com/"
+	},
+	{
 		"years": "1968 - 1980",
 		"name": "Led Zeppelin",
 		"members": "Robert Plant, Jimmy Page, John Paul Jones, John Bonham",
 		"img": "bands/led zeppelin.jpg",
 		"link": "https://merch.ledzeppelin.com/?ref=https://en.wikipedia.org/"
+	},
+	{
+		"years": "1947 - 2020",
+		"name": "Little Richard",
+		"members": "Little Richard",
+		"img": "bands/little richard.jpg",
+		"link": "https://en.wikipedia.org/wiki/Little_Richard"
 	},
 	{
 		"years": "1964 - 1977, 1979, 1987 - Present",
@@ -180,6 +313,13 @@
 		"members": "James Hetfield, Lars Ulrich, Kirk Hammet, Robert Trujillo<br>Past Members: Dave Mustaine, Ron McGovney, Cliff Burton, Jason Newstead",
 		"img": "bands/metallica.jpg",
 		"link": "https://merch.ledzeppelin.com/?ref=https://en.wikipedia.org/"
+	},
+	{
+		"years": "1969 - 1980, 2020 - Present",
+		"name": "Mott The Hoople",
+		"members": "Ian Hunter, Ariel Bender, Morgan Fisher, James Mastro, Steve Holley, Mark Bosch, Paul Page, Dennis Dibrizzi<br><br>Past Members: Pete Overend Watts, Dale 'Buffin' Griffin, Verden Allen, Mick Ronson, Ray Major, Nigel Benjamin, Steve Hyams, Mick Ralphs, Mick Bolten",
+		"img": "bands/mott the hoople.jpg",
+		"link": "http://www.hunter-mott.com/"
 	},
 	{
 		"years": "1987 - 1994",
@@ -217,6 +357,13 @@
 		"link": "https://queenonline.com/"
 	},
 	{
+		"years": "1947 - 2004",
+		"name": "Ray Charles",
+		"members": "Ray Charles",
+		"img": "bands/ray charles.jpg",
+		"link": "https://raycharles.com/"
+	},
+	{
 		"years": "1961 - Present",
 		"name": "Rod Stewart",
 		"members": "Rod Stewart",
@@ -229,6 +376,34 @@
 		"members": "Alex Lifeson, John Rutsey, Jeff Jones, Geddy Lee, Lindy Young, Joe Perna, Mitchel Bossi, Neil Peart",
 		"img": "bands/rush.jpg",
 		"link": "https://www.rush.com/"
+	},
+	{
+		"years": "1951 - 1964",
+		"name": "Sam Cooke",
+		"members": "Sam Cooke",
+		"img": "bands/sam cooke.jpg",
+		"link": "https://officialsamcooke.com/"
+	},
+	{
+		"years": "1966 - Present",
+		"name": "Santana",
+		"members": "Carlos Santana, Tommy Anthony, Ray Greene, David Mathews, Paoli Mejias, Karl Perazzo, Benny Rietveld, Cindy Blackman Santana, Andy Vargas, Jim Jameson",
+		"img": "bands/santana.jpg",
+		"link": "https://www.santana.com/"
+	},
+	{
+		"years": "1966 - Present",
+		"name": "Steve Miller Band",
+		"members": "Steve Miller, Kenny Lee Lewis, Joseph Wooten, Jacob Petersen, Ron Wikso<br><br>Past Members: Sonny Charles, Lonnie Turner, James Cooke, Tim Davis, Jim Peterman, Boz Scaggs, Ben Sidran, Nicky Hopkins, Bobby Winkelman, Jack King, Ross Valory, Gerald Johnson, Dick Thompson, Roger Allen Clark, Gary Mallaber, John King, David Denny, Greg Douglass, Byron Allred, Norton Buffalo, John Massaro, Billy Peterson, Ricky Peterson, Bob Malach, Gordy Knudtson",
+		"img": "bands/steve miller band.jpg",
+		"link": "https://www.stevemillerband.com/"
+	},
+	{
+		"years": "1965 - 1990",
+		"name": "Stevie Ray Vaughan",
+		"members": "Stevie Ray Vaughan",
+		"img": "bands/stevie ray vaughan.jpg",
+		"link": "https://srvofficial.com/"
 	},
 	{
 		"years": "1971 - Present",
