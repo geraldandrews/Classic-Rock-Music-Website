@@ -250,6 +250,18 @@ img-container:hover .logo {
 
 .footer .divider {
    background: #fff;
+   width: 75%;
+   Height: 2px;
+   margin: auto;
+}
+
+.footer p {
+   color: #fff;
+   text-align: center;
+}
+
+.footer a {
+   color: #fff;
 }
 
 @media (max-width: 1100px) {
