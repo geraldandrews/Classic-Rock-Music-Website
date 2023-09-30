@@ -248,6 +248,10 @@ img-container:hover .logo {
    color: grey;
 }
 
+.footer .divider {
+   background: #fff;
+}
+
 @media (max-width: 1100px) {
    .main-header {
       height: 25vh;
