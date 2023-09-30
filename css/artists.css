@@ -252,7 +252,7 @@ img-container:hover .logo {
    background: #fff;
    width: 75%;
    Height: 2px;
-   margin: auto;
+   margin: 25px auto;
 }
 
 .footer p {
