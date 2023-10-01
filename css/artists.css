@@ -34,7 +34,6 @@ body {
    color: #fff;
    text-transform: capitalize;
    font-size: 1rem;
-   margin-right: 35px;
 }
 
 .nav-link:hover {
@@ -48,7 +47,6 @@ body {
    transition-property: color;
    transition-duration: 2s;
    transition-timing-function: linear;
-   margin-right: 15px;
 }
 
 .nav-icon:hover {
