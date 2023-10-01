@@ -258,6 +258,7 @@ img-container:hover .logo {
 .footer p {
    color: #fff;
    text-align: center;
+   margin-top: 10px;
 }
 
 .footer a {
